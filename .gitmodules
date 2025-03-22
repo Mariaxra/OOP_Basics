@@ -1,0 +1,15 @@
+[submodule "GameCharacter"]
+	path = GameCharacter
+	url = https://github.com/Mariaxra/GameCharacter.git
+[submodule "MedicalPatient"]
+	path = MedicalPatient
+	url = https://github.com/Mariaxra/MedicalPatient.git
+[submodule "GPS"]
+	path = GPS
+	url = https://github.com/Mariaxra/GPS.git
+[submodule "Calendar"]
+	path = Calendar
+	url = https://github.com/Mariaxra/Calendar.git
+[submodule "NightSky"]
+	path = NightSky
+	url = https://github.com/Mariaxra/NightSky.git
